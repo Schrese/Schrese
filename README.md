@@ -7,7 +7,7 @@
 <a href="https://github.com/Schrese">
   <img align="left" alt="Schrese's Github Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-
+<br/>
 
 <img align="right" alt="GIF" src="https://media0.giphy.com/media/citBl9yPwnUOs/giphy.gif" />
 
