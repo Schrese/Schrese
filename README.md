@@ -18,4 +18,4 @@
 * 💡 I’m currently learning ... Python
 * 💬 Ask me about ... Whatever You'd Like!
 * 🤹‍♀️ Fun fact: ... I Enjoy Juggling, and Games (Both Video and Tabletop)
-* 😄 Pronouns: ... She/Her
+
