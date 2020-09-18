@@ -13,7 +13,7 @@
 
 
 
-
+### My Name is Schrese! Here's A Bit About Me:
 * 🔨 I’m currently working on ... https://github.com/orgs/Lambda-School-Labs/teams/labs26-storysquad-teamb/repositories
 * 💡 I’m currently learning ... Python
 * 💬 Ask me about ... Whatever You'd Like!
